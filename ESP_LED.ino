@@ -2,7 +2,7 @@
 #include <WiFi.h>
 
 const char* ssid = "GAMING";
-const char* password = "JULIOXD098";
+const char* password = "12345678";
 
 void setup() {
   Serial.begin(115200);
